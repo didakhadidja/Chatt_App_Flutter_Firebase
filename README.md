@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter application.
+A new Flutter chatt application with firebase backend.
 
 ## Getting Started
 
